@@ -5,5 +5,6 @@ public class TestMain {
 
         System.out.println("北网加油 北网加油  北网加油！！");
         System.out.println("武汉加油 北京加油  意大利加油！！！");
+        System.out.println("四月份能开学吗，五一以后会开学！！！！！！！！");
     }
 }
