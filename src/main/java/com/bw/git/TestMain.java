@@ -6,5 +6,6 @@ public class TestMain {
         System.out.println("北网加油 北网加油  北网加油！！");
         System.out.println("武汉加油 北京加油  意大利加油！！！");
         System.out.println("明天回更好！！！！！！！！！！！！！！！");
+        System.out.println("xxxxxxxxxxxxxxxxxxxxx")
     }
 }
